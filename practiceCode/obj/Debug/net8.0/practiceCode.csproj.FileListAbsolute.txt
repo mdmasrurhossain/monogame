@@ -1,0 +1,15 @@
+C:\Users\rman\git\monogame\practiceCode\bin\Debug\net8.0\practiceCode.exe
+C:\Users\rman\git\monogame\practiceCode\bin\Debug\net8.0\practiceCode.deps.json
+C:\Users\rman\git\monogame\practiceCode\bin\Debug\net8.0\practiceCode.runtimeconfig.json
+C:\Users\rman\git\monogame\practiceCode\bin\Debug\net8.0\practiceCode.dll
+C:\Users\rman\git\monogame\practiceCode\bin\Debug\net8.0\practiceCode.pdb
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.AssemblyInfoInputs.cache
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.AssemblyInfo.cs
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.csproj.CoreCompileInputs.cache
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.sourcelink.json
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.dll
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\refint\practiceCode.dll
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.pdb
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\practiceCode.genruntimeconfig.cache
+C:\Users\rman\git\monogame\practiceCode\obj\Debug\net8.0\ref\practiceCode.dll

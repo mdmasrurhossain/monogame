@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rman/git/monogame/ShootingGallery/Content/Audio/gunEffect.mp3","C:/Users/rman/git/monogame/ShootingGallery/Content/bin/DesktopGL/Audio/gunEffect.xnb","SoundEffectProcessor","SoundEffectContent",131471,589929,0.3014674
+"C:/Users/rman/git/monogame/ShootingGallery/Content/Audio/hitEffect.mp3","C:/Users/rman/git/monogame/ShootingGallery/Content/bin/DesktopGL/Audio/hitEffect.xnb","SoundEffectProcessor","SoundEffectContent",157618,714345,0.3080056
+"C:/Users/rman/git/monogame/ShootingGallery/Content/crosshairs.png","C:/Users/rman/git/monogame/ShootingGallery/Content/bin/DesktopGL/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.1633634
+"C:/Users/rman/git/monogame/ShootingGallery/Content/galleryFont.spritefont","C:/Users/rman/git/monogame/ShootingGallery/Content/bin/DesktopGL/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",2065,70687,0.1279895
+"C:/Users/rman/git/monogame/ShootingGallery/Content/sky.png","C:/Users/rman/git/monogame/ShootingGallery/Content/bin/DesktopGL/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.2441342
+"C:/Users/rman/git/monogame/ShootingGallery/Content/target.png","C:/Users/rman/git/monogame/ShootingGallery/Content/bin/DesktopGL/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0028146

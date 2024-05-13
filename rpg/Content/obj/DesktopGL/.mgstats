@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rman/git/monogame/rpg/Content/background.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/background.xnb","TextureProcessor","Texture2DContent",70634,24920149,0.9937418
+"C:/Users/rman/git/monogame/rpg/Content/ball.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",699,36949,0.0051436
+"C:/Users/rman/git/monogame/rpg/Content/Player/player.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/Player/player.xnb","TextureProcessor","Texture2DContent",1072,36949,0.0051719
+"C:/Users/rman/git/monogame/rpg/Content/Player/walkDown.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/Player/walkDown.xnb","TextureProcessor","Texture2DContent",5078,147541,0.0106772
+"C:/Users/rman/git/monogame/rpg/Content/Player/walkLeft.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/Player/walkLeft.xnb","TextureProcessor","Texture2DContent",5640,147541,0.0127996
+"C:/Users/rman/git/monogame/rpg/Content/Player/walkRight.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/Player/walkRight.xnb","TextureProcessor","Texture2DContent",5308,147541,0.0104142
+"C:/Users/rman/git/monogame/rpg/Content/Player/walkUp.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/Player/walkUp.xnb","TextureProcessor","Texture2DContent",4574,147541,0.0101785
+"C:/Users/rman/git/monogame/rpg/Content/skull.png","C:/Users/rman/git/monogame/rpg/Content/bin/DesktopGL/skull.xnb","TextureProcessor","Texture2DContent",9601,506965,0.0324791
