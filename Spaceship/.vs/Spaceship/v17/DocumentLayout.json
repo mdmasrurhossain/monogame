@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\rman\\git\\monogame\\Spaceship\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F98D312A-C65D-4857-9657-4A335BC43D82}|Spaceship.csproj|c:\\users\\rman\\git\\monogame\\spaceship\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F98D312A-C65D-4857-9657-4A335BC43D82}|Spaceship.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F98D312A-C65D-4857-9657-4A335BC43D82}|Spaceship.csproj|c:\\users\\rman\\git\\monogame\\spaceship\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F98D312A-C65D-4857-9657-4A335BC43D82}|Spaceship.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F98D312A-C65D-4857-9657-4A335BC43D82}|Spaceship.csproj|c:\\users\\rman\\git\\monogame\\spaceship\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F98D312A-C65D-4857-9657-4A335BC43D82}|Spaceship.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F98D312A-C65D-4857-9657-4A335BC43D82}|Spaceship.csproj|c:\\users\\rman\\git\\monogame\\spaceship\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Controller.cs",
               "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\Spaceship\\Controller.cs",
               "RelativeDocumentMoniker": "Controller.cs",
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Asteroid.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T04:40:52.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T04:40:52.047Z"
             },
             {
               "$type": "Document",
@@ -68,18 +67,17 @@
               "RelativeToolTip": "Ship.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T11:20:07.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-03T11:20:07.817Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Game1.cs",
               "DocumentMoniker": "C:\\Users\\rman\\git\\monogame\\Spaceship\\Game1.cs",
               "RelativeDocumentMoniker": "Game1.cs",
               "ToolTip": "C:\\Users\\rman\\git\\monogame\\Spaceship\\Game1.cs",
               "RelativeToolTip": "Game1.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFIAAABNAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAowFIAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-02T18:22:47.148Z",
               "EditorCaption": ""

@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/rman/git/monogame/DugOut/Content/sprites/background/background.png","C:/Users/rman/git/monogame/DugOut/Content/bin/DesktopGL/Content/sprites/background/background.xnb","TextureProcessor","Texture2DContent",5357,3686485,0.2428197
+"C:/Users/rman/git/monogame/DugOut/Content/sprites/character/hero.png","C:/Users/rman/git/monogame/DugOut/Content/bin/DesktopGL/Content/sprites/character/hero.xnb","TextureProcessor","Texture2DContent",311725,2560085,0.2074845
